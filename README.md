@@ -34,11 +34,12 @@ Simulação educacional de defesa antiaérea com foco em cibersegurança.
 ---
 
 ## 🚀 Habilidades
-- Análise de logs (Sigma, Python)  
-- Criação de playbooks de resposta  
-- Simulação de SOC  
-- Defesa aplicada em IoT e sistemas críticos  
-- Documentação clara e didática
+🔐 Habilidades em Cibersegurança:
+- Análise de logs (Sigma, Python) → geração de relatórios automáticos de incidentes
+- Criação de playbooks de resposta → simulações práticas de defesa digital
+- Operação e simulação de SOC → scripts e automação de processos
+- Defesa aplicada em IoT e sistemas críticos → cenários com drones e veículos inteligentes
+- Documentação clara e didática → projetos explicados de forma acessível
 
 ---
 
