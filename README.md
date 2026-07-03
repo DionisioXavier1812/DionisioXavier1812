@@ -1,4 +1,5 @@
-# 👋 Olá, eu sou Dionisio Xavier  
+#👋 Olá, eu sou Dionisio Xavier — disciplina militar aplicada à Segurança Cibernética.
+ 
 ## 🛡️ Militar na formação. Blue Team na missão.
 
 Minha trajetória começou na caserna, onde disciplina, prontidão, responsabilidade e respeito aos protocolos não eram apenas valores — eram requisitos diários.  
