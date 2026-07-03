@@ -1,5 +1,6 @@
-👋 Olá, eu sou Dionisio Xavier
-Disciplina militar aplicada à Segurança Cibernética.
+# 👋 Olá, eu sou Dionisio Xavier  
+**Disciplina militar aplicada à Segurança Cibernética.**
+
 🛡️ Militar na formação. Blue Team na missão.  
 Minha trajetória começou na caserna, onde disciplina, prontidão, responsabilidade e respeito aos protocolos não eram apenas valores — eram requisitos diários.
 Recebi a condecoração de Praça Mais Distinta, reconhecimento concedido ao militar com melhor conduta, desempenho e liderança.
