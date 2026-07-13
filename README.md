@@ -1,20 +1,21 @@
-# 🧑‍💼 DIONISIO APARECIDO DA SILVA XAVIER  
-## Profissional de Segurança, Tecnologia e Operações  
+# 🧑‍💼 DIONISIO XAVIER  
+## Profissional de Cybersegurança, Segurança da Informação e Operações  
 Ferraz de Vasconcelos – SP • (11) 93749-6765 • dionisioxavier1812@gmail.com
 
 ---
 
-# 🎯 PERFIL PROFISSIONAL (Resumo Direto para Recrutadores)
+# 🎯 PERFIL PROFISSIONAL (Foco em Cybersegurança)
 
 Profissional com **experiência comprovada em segurança, operações, tecnologia e liderança**, reunindo:
 
 - 3 anos de **serviço militar no Exército Brasileiro** (2002–2005)  
-- Atuação em **segurança patrimonial** e **transporte de valores**  
+- Atuação em **segurança patrimonial**, **transporte de valores** e **operações críticas**  
 - Experiência em **gestão de equipes**, **varejo**, **telecom**, **TI**  
 - Formação superior em **Análise e Desenvolvimento de Sistemas**  
 - Pós-graduações em **Cybersecurity**, **Cybercrimes** e **Desenvolvimento Web Full Stack**  
 - Cursos técnicos SENAI em **Python**, **Power BI**, **Segurança Cibernética**, **Montagem de Microcomputadores**  
 - Certificações em **Linux** e **AWS**  
+- Conhecimentos práticos em **SOC**, **Blue Team**, **monitoramento**, **logs**, **resposta a incidentes**, **investigação técnica** e **defesa cibernética**
 
 Perfil analítico, disciplinado, com forte capacidade de liderança, organização e foco em resultados.
 
@@ -35,6 +36,7 @@ Principais pontos:
 - Comportamento Militar: **“BOM”**  
 - Desempenho físico acima da média (B, B, MB)  
 - Experiência com sistemas, redes, manutenção e suporte técnico dentro da OM  
+- Disciplina, prontidão e mentalidade operacional — base essencial para **SOC / Blue Team**
 
 ---
 
@@ -80,62 +82,4 @@ Montagem de cabos de rede, configuração de Wi-Fi.
 
 ---
 
-# 📜 CURSOS TÉCNICOS E CERTIFICAÇÕES
-
-### Segurança / Cybersecurity
-- Cybersecurity Essentials – SENAI  
-- Por Dentro da Segurança Cibernética – SENAI  
-  > “Identificar riscos, vulnerabilidades e ameaças no contexto da Segurança Cibernética.”
-
-- Curso de Vigilante – Prosegur  
-- Extensão em Transporte de Valores – Prosegur
-
-### Tecnologia / Programação / Dados
-- Programação em Python – SENAI  
-- Microsoft Power BI – SENAI  
-  > “Criar indicadores, coletar, analisar e visualizar dados de maneira eficaz.”
-
-- Montagem e Configuração de Microcomputadores – SENAI  
-- Lógica de Programação – UniCesumar
-
-### Certificações Nerdin
-- Linux  
-- AWS
-
-### Outros
-- Curso de Liderança – Danki Code  
-- Curso de Montagem e Manutenção de Micro – Danki Code  
-- Educação Ambiental – SENAI  
-- Marketing Digital – SENAI
-
----
-
-# 🧠 HABILIDADES (Foco em Contratação)
-
-### Segurança / Cybersecurity
-- Identificação de ameaças, riscos e vulnerabilidades  
-- Noções de defesa cibernética e LGPD  
-- Infraestrutura de rede, sistemas operacionais, backups
-
-### Tecnologia
-- Python  
-- Desenvolvimento Web Full Stack  
-- Power BI (ETL, dashboards, indicadores)  
-- Montagem e manutenção de computadores  
-- Redes e arquitetura de computadores
-
-### Operações / Gestão
-- Liderança de equipes  
-- Gestão de loja e processos  
-- Atendimento ao cliente  
-- Controle de estoque  
-- Disciplina, organização e foco em resultados
-
----
-
-# 📞 CONTATO
-
-**Dionisio Aparecido da Silva Xavier**  
-Ferraz de Vasconcelos – SP  
-Telefone: (11) 93749-6765  
-E-mail: dionisioxavier1812@gmail.com
+# 📜 CURSOS TÉCNICOS E CERT
