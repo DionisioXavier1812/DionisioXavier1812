@@ -1,85 +1,92 @@
-# 🧑‍💼 DIONISIO XAVIER  
-## Profissional de Cybersegurança, Segurança da Informação e Operações  
+⭐ README Profissional — Versão para Recrutadores (SOC / Blue Team)
+🧑‍💼 DIONISIO XAVIER
+Profissional de Cybersegurança | SOC | Blue Team | Defesa Cibernética  
 Ferraz de Vasconcelos – SP • (11) 93749-6765 • dionisioxavier1812@gmail.com
 
----
+🎯 Resumo Profissional
+Profissional de Cybersegurança com experiência prática em monitoramento, análise de eventos, investigação técnica, resposta a incidentes e defesa cibernética.
+Base sólida em operações críticas, adquirida em 3 anos de serviço militar no Exército Brasileiro, com histórico de disciplina, prontidão, liderança e desempenho acima da média.
 
-# 🎯 PERFIL PROFISSIONAL (Foco em Cybersegurança)
+Experiência complementar em TI, varejo, telecom e segurança patrimonial, com atuação direta em CFTV, manutenção de sistemas, suporte técnico, protocolos de segurança e gestão de equipes.
 
-Profissional com **experiência comprovada em segurança, operações, tecnologia e liderança**, reunindo:
+Atualmente em transição estruturada para SOC / Blue Team, com portfólio técnico ativo e formação superior em tecnologia e cibersegurança.
 
-- 3 anos de **serviço militar no Exército Brasileiro** (2002–2005)  
-- Atuação em **segurança patrimonial**, **transporte de valores** e **operações críticas**  
-- Experiência em **gestão de equipes**, **varejo**, **telecom**, **TI**  
-- Formação superior em **Análise e Desenvolvimento de Sistemas**  
-- Pós-graduações em **Cybersecurity**, **Cybercrimes** e **Desenvolvimento Web Full Stack**  
-- Cursos técnicos SENAI em **Python**, **Power BI**, **Segurança Cibernética**, **Montagem de Microcomputadores**  
-- Certificações em **Linux** e **AWS**  
-- Conhecimentos práticos em **SOC**, **Blue Team**, **monitoramento**, **logs**, **resposta a incidentes**, **investigação técnica** e **defesa cibernética**
+🔐 Competências Técnicas
+SOC / Blue Team: monitoramento, triagem, análise de logs, investigação inicial, criação de relatórios, playbooks.
 
-Perfil analítico, disciplinado, com forte capacidade de liderança, organização e foco em resultados.
+Segurança da Informação: protocolos, registro de incidentes, análise de risco, defesa cibernética.
 
----
+Tecnologias: Linux, AWS, Python, Power BI, CFTV, redes, sistemas operacionais.
 
-# 🪖 DESTAQUES MILITARES (Provas Documentais)
+Ferramentas e conceitos: SIEM, Sigma, IOC, cadeia de custódia, DFIR básico, ameaças cibernéticas, resposta a incidentes.
 
-> “Realizou o Tiro de Instrução Básico […] obtendo a menção ‘E’.”  
-> “Realizou o 3º TAF […] obtendo a menção ‘MB’.”  
-> “Concluíram, com aproveitamento, o CFC/2003 […] Nota: 10,0, Menção: E, Classificação: 3º.”  
-> “Conceder a BARRETA DE PRAÇA MAIS DISTINTA […] por ter sido julgado como o mais distinto do contingente.”  
+Soft Skills: disciplina, liderança, tomada de decisão sob pressão, organização, comunicação clara.
 
-Principais pontos:
+🪖 Diferenciais Militares (Comprovação Documental)
+Barreta de Praça Mais Distinta — honraria militar.
 
-- Barreta de Praça Mais Distinta (honraria militar)  
-- Curso de Formação de Cabos – Nota **10,0**  
-- Tiro Avançado e Tiro Real com Canhão 35mm  
-- Comportamento Militar: **“BOM”**  
-- Desempenho físico acima da média (B, B, MB)  
-- Experiência com sistemas, redes, manutenção e suporte técnico dentro da OM  
-- Disciplina, prontidão e mentalidade operacional — base essencial para **SOC / Blue Team**
+Curso de Formação de Cabos — Nota 10,0.
 
----
+Tiro Avançado e Tiro Real com Canhão 35mm.
 
-# 💼 EXPERIÊNCIA PROFISSIONAL (Impacto Direto)
+Desempenho físico acima da média (B, B, MB).
 
-### • Líder de Setor – Atacadão (2024–2025)  
-Gestão de equipe, processos, estoque, indicadores.
+Experiência com sistemas, redes e suporte técnico dentro da OM.
 
-### • Operador de Telemarketing – Teleperformance (2024)  
-Suporte a usuários de banco digital.
+Mentalidade operacional aplicada ao SOC: prontidão, disciplina, foco, resiliência.
 
-### • Gerente de Loja – Perfumaria Uehara (2021–2023)  
-Gestão de equipe, manutenção de TI, configuração de hotspot.
+💼 Experiência Profissional Relevante
+Líder de Setor – Atacadão (2024–2025)  
+Gestão de equipe, processos, indicadores, organização operacional.
 
-### • Conferente / Ajudante Geral – Perfumaria Uehara (2017–2021)  
-Controle de estoque, CFTV, manutenção de PCs.
+Operador de Telemarketing – Teleperformance (2024)  
+Atendimento técnico e suporte a usuários de banco digital.
 
-### • Assistente Geral – Geiser Resistências Industriais (2013–2015)
+Gerente de Loja – Perfumaria Uehara (2021–2023)  
+Gestão de equipe, TI local, configuração de hotspot, manutenção de sistemas.
 
-### • Vendedor – Liga Tudo Wireless (2012–2013)  
-Montagem de cabos de rede, configuração de Wi-Fi.
+Conferente / Ajudante Geral – Perfumaria Uehara (2017–2021)  
+Controle de estoque, operação de CFTV, manutenção de computadores.
 
-### • Almoxarife / Vendedor – Won Telecom (2010–2012)
+Experiências anteriores (2005–2015)  
+Vigilância patrimonial, transporte de valores, telecom, montagem de redes, suporte técnico.
 
-### • Vigilante Patrimonial – WAP (2007–2008)
+🎓 Formação Acadêmica
+MBA em Cybersecurity e Cybercrimes – Anhanguera (2024)
 
-### • Vigilante de Transporte de Valores – Prosegur (2005–2006)
+Pós-graduação em Desenvolvimento Web Full Stack – Anhanguera (2024)
 
----
+Tecnólogo em Análise e Desenvolvimento de Sistemas – UniCesumar (2023)
 
-# 🎓 FORMAÇÃO SUPERIOR E PÓS-GRADUAÇÕES
+Tecnólogo em Defesa Cibernética – UniCesumar (2026–2028, em andamento)
 
-### • MBA em Cybersecurity e Cybercrimes – Anhanguera (2024)  
-> “Concluiu o curso de MBA em Cybersecurity e cybercrimes […] 360 horas.”
+📜 Cursos Técnicos e Certificações
+Python – SENAI
 
-### • Pós-graduação em Desenvolvimento Web Full Stack – Anhanguera (2024)  
-> “Concluiu o curso de Desenvolvimento Web Full Stack […] 360 horas.”
+Power BI – SENAI
 
-### • Tecnólogo em Análise e Desenvolvimento de Sistemas – UniCesumar (2023)  
-> “Confere o título de Tecnólogo em Análise e Desenvolvimento de Sistemas.”
+Segurança Cibernética – SENAI
 
-### • Tecnólogo em Defesa Cibernética – UniCesumar (2026–2028, em andamento)
+Montagem e Manutenção de Microcomputadores – SENAI
 
----
+Certificação Linux
 
-# 📜 CURSOS TÉCNICOS E CERT
+Certificação AWS
+
+📂 Portfólio Técnico (Projetos SOC / Blue Team)
+BlueTeam-Log-Analyzer — Ferramenta para análise de logs Sigma e geração de relatórios.
+
+SOC-Simulacao-Jr — Simulação de operações SOC com scripts, relatórios e playbooks.
+
+CyberDefense-SOC-Portfolio — Casos simulados de defesa cibernética.
+
+Defesa-Antiaerea-Ciberseguranca — Simulação educacional com arquitetura, ameaças e logs.
+
+intrusion-simulation-military — Simulação militar de intrusão e resposta.
+
+(Todos os projetos estão disponíveis no GitHub.)
+
+📞 Contato
+📧 dionisioxavier1812@gmail.com
+📱 (11) 93749-6765
+📍 Ferraz de Vasconcelos – SP
