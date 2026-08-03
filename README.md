@@ -1,4 +1,3 @@
-⭐ README Profissional — Versão para Recrutadores (SOC / Blue Team)
 🧑‍💼 DIONISIO XAVIER
 Profissional de Cybersegurança | SOC | Blue Team | Defesa Cibernética  
 Ferraz de Vasconcelos – SP • (11) 93749-6765 • dionisioxavier1812@gmail.com
