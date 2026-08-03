@@ -98,7 +98,7 @@ Vigilância patrimonial, transporte de valores, telecom e suporte técnico.
 **BlueTeam-Log-Analyzer**  
 Ferramenta para análise de logs, correlação de eventos, identificação de IOCs e geração de relatórios.
 
-**SOC-Simulacao-Jr**  
+**SOC-Simulacao-Jr**   
 Simulação de operações SOC com triagem, análise, documentação de incidentes e criação de playbooks.
 
 **CyberDefense-SOC-Portfolio**  
