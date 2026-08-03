@@ -1,9 +1,6 @@
 # DIONISIO XAVIER
-Profissional de Cybersegurança  # DIONISIO XAVIER
 Profissional de Cybersegurança  
 Ferraz de Vasconcelos – SP  
-E-mail: dionisioxavier1812@gmail.com  
-Telefone: (11) 93749-6765  
 
 ---
 
