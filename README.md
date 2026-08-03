@@ -2,7 +2,7 @@
 Profissional de Cybersegurança | SOC | Blue Team | Defesa Cibernética  
 Ferraz de Vasconcelos – SP • (11) 93749-6765 • dionisioxavier1812@gmail.com
 
-🎯 Resumo Profissional  
+🎯 Resumo Profissional   
 Profissional de Cybersegurança com experiência prática em monitoramento, análise de eventos, investigação técnica, resposta a incidentes e defesa cibernética.  
 Base sólida em operações críticas, adquirida em 3 anos de serviço militar no Exército Brasileiro, com histórico de disciplina, prontidão, liderança e desempenho acima da média.  
 Experiência complementar em TI, varejo, telecom e segurança patrimonial, com atuação direta em CFTV, manutenção de sistemas, suporte técnico, protocolos de segurança e gestão de equipes.  
