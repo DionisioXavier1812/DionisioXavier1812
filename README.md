@@ -1,110 +1,93 @@
-⭐ DIONISIO XAVIER
-🛡️ Cybersegurança • SOC • Blue Team • Defesa Cibernética
-<div align="center">
+Profissional de Cybersegurança | SOC | Blue Team | Defesa Cibernética
+Local: Ferraz de Vasconcelos – SP
+Contato: dionisioxavier1812@gmail.com • (11) 93749-6765
 
-]() [  
-]() [  
-``
+Perfil Profissional
+Profissional de Cybersegurança com experiência prática em monitoramento, análise de eventos, investigação técnica, resposta a incidentes e defesa cibernética.
+Formação sólida em ambientes de alta criticidade, adquirida no Exército Brasileiro, com histórico comprovado de disciplina, prontidão, liderança e desempenho acima da média.
 
-</div>
+Atuação complementar em TI, varejo, telecom e segurança patrimonial, incluindo suporte técnico, manutenção de sistemas, operação de CFTV e gestão de equipes.
+Em transição estruturada para SOC / Blue Team, com portfólio técnico ativo e formação superior em tecnologia e segurança.
 
-🔥 Sobre Mim
-Sou profissional de Cybersegurança com foco em SOC, Blue Team e Defesa Cibernética, atuando em:
+Competências Técnicas
+SOC / Blue Team  
+Monitoramento, triagem, análise de logs, investigação inicial, elaboração de relatórios, criação de playbooks.
 
-Monitoramento e triagem de eventos
+Segurança da Informação  
+Protocolos, registro de incidentes, análise de risco, defesa cibernética, cadeia de custódia, DFIR básico.
 
-Análise de logs e investigação inicial
+Tecnologias  
+Linux, AWS, Python, Power BI, redes, sistemas operacionais, CFTV.
 
-Resposta a incidentes
+Ferramentas e Conceitos  
+SIEM, Sigma, IOC, ameaças cibernéticas, resposta a incidentes.
 
-Criação de relatórios e playbooks
+Competências Comportamentais  
+Disciplina, liderança, tomada de decisão sob pressão, organização, comunicação clara.
 
-Simulações de ataques e defesa
+Diferenciais Militares
+Barreta de Praça Mais Distinta (honraria militar).
 
-Minha base militar no Exército Brasileiro fortaleceu minha disciplina, prontidão, liderança e tomada de decisão sob pressão — habilidades essenciais para ambientes críticos de segurança.
+Curso de Formação de Cabos — Nota 10,0.
 
-⚙️ Stack Técnico
-🔹 Segurança & SOC
-SIEM • Sigma • IOC • DFIR básico
+Tiro Avançado e Tiro Real com Canhão 35mm.
 
-Cadeia de custódia • Ameaças cibernéticas
+Desempenho físico acima da média (B, B, MB).
 
-Playbooks • Relatórios técnicos
+Experiência com sistemas, redes e suporte técnico dentro da OM.
 
-🔹 Tecnologias
-Linux (avançado)
+Mentalidade operacional aplicada ao SOC: prontidão, foco e resiliência.
 
-AWS (cloud fundamentals)
+Experiência Profissional
+Líder de Setor – Atacadão (2024–2025)  
+Gestão de equipe, processos, indicadores e organização operacional.
 
-Python (scripts de análise)
+Operador de Telemarketing – Teleperformance (2024)  
+Atendimento técnico e suporte a usuários de banco digital.
 
-Power BI (dashboards)
+Gerente de Loja – Perfumaria Uehara (2021–2023)  
+Gestão de equipe, TI local, manutenção de sistemas, configuração de hotspot.
 
-Redes • CFTV • Sistemas operacionais
+Conferente / Ajudante Geral – Perfumaria Uehara (2017–2021)  
+Controle de estoque, operação de CFTV, manutenção de computadores.
 
-🔹 Soft Skills
-Disciplina
+Experiências anteriores (2005–2015)  
+Vigilância patrimonial, transporte de valores, telecom, montagem de redes, suporte técnico.
 
-Liderança
+Formação Acadêmica
+MBA em Cybersecurity e Cybercrimes – Anhanguera (2024)
 
-Organização
+Pós-graduação em Desenvolvimento Web Full Stack – Anhanguera (2024)
 
-Comunicação clara
+Tecnólogo em Análise e Desenvolvimento de Sistemas – UniCesumar (2023)
 
-Resiliência
+Tecnólogo em Defesa Cibernética – UniCesumar (2026–2028, em andamento)
 
-🪖 Diferenciais Militares
-Competências operacionais aplicadas ao SOC
-
-Barreta de Praça Mais Distinta
-
-Nota 10,0 no Curso de Formação de Cabos
-
-Tiro Avançado e Tiro Real com Canhão 35mm
-
-Desempenho físico acima da média
-
-Experiência com sistemas e redes dentro da OM
-
-📂 Portfólio SOC / Blue Team
-🔹 BlueTeam-Log-Analyzer
-Ferramenta para análise de logs Sigma e geração de relatórios.
-
-🔹 SOC-Simulacao-Jr
-Simulação de operações SOC com scripts, relatórios e playbooks.
-
-🔹 CyberDefense-SOC-Portfolio
-Casos simulados de defesa cibernética.
-
-🔹 Defesa-Antiaerea-Ciberseguranca
-Simulação educacional com arquitetura, ameaças e logs.
-
-🔹 intrusion-simulation-military
-Simulação militar de intrusão e resposta.
-
-🎓 Formação
-MBA em Cybersecurity e Cybercrimes
-
-Pós-graduação em Desenvolvimento Web Full Stack
-
-Tecnólogo em ADS
-
-Tecnólogo em Defesa Cibernética (em andamento)
-
-📜 Certificações & Cursos
+Cursos e Certificações
 Python – SENAI
 
 Power BI – SENAI
 
 Segurança Cibernética – SENAI
 
-Montagem e Manutenção – SENAI
+Montagem e Manutenção de Microcomputadores – SENAI
 
 Certificação Linux
 
 Certificação AWS
 
-📞 Contato
-📧 dionisioxavier1812@gmail.com  
-📱 (11) 93749-6765  
-📍 Ferraz de Vasconcelos – SP
+Portfólio Técnico (SOC / Blue Team)
+BlueTeam-Log-Analyzer — Análise de logs Sigma e geração de relatórios.
+
+SOC-Simulacao-Jr — Simulação de operações SOC com scripts, relatórios e playbooks.
+
+CyberDefense-SOC-Portfolio — Casos simulados de defesa cibernética.
+
+Defesa-Antiaerea-Ciberseguranca — Simulação educacional com arquitetura, ameaças e logs.
+
+intrusion-simulation-military — Simulação militar de intrusão e resposta.
+
+Contato
+E-mail: dionisioxavier1812@gmail.com
+Telefone: (11) 93749-6765
+Local: Ferraz de Vasconcelos – SP
