@@ -5,6 +5,17 @@
 [![Focus](https://img.shields.io/badge/focus-cyber%20defense-red)]()
 [![Infra](https://img.shields.io/badge/domain-infraestrutura%20crítica-blue)]()
 
+![SOC](https://img.shields.io/badge/SOC-Operations-blue)
+![DFIR](https://img.shields.io/badge/DFIR-Forensics-red)
+![OT/ICS](https://img.shields.io/badge/OT%2FICS-Industrial%20Security-orange)
+![SCADA](https://img.shields.io/badge/SCADA-Control%20Systems-yellow)
+![MilitaryCyber](https://img.shields.io/badge/Military-Cyber%20Defense-black)
+![CriticalInfra](https://img.shields.io/badge/Critical-Infrastructure-green)
+![ThreatHunting](https://img.shields.io/badge/Threat-Hunting-purple)
+![IncidentResponse](https://img.shields.io/badge/Incident-Response-brown)
+
+
+
 Este portfólio reúne projetos dedicados à **segurança cibernética de infraestruturas críticas**, incluindo ambientes OT/ICS, SCADA, telecom, satcom, defesa militar e simulações completas de DFIR, MITRE ATT&CK, logs, IOCs e resposta a incidentes.
 
 A proposta é ser simples, acessível e útil tanto para iniciantes quanto para profissionais de segurança, SOC/NOC, OT/ICS e defesa.
