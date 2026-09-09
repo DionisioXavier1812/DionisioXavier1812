@@ -1,109 +1,101 @@
-🌐 Dionisio Xavier — Cybersecurity & Critical Infrastructure Defense
- 
- 
+# 🌐 Dionisio Xavier — Critical Infrastructure Cyber Defense
+
+[![Status](https://img.shields.io/badge/status-active-green)]()
+[![Focus](https://img.shields.io/badge/focus-cyber%20defense-red)]()
+[![Infra](https://img.shields.io/badge/area-infraestrutura%20crítica-blue)]()
+
+Portfólio dedicado à segurança cibernética de **infraestruturas críticas**, reunindo projetos completos com DFIR, MITRE ATT&CK, logs, IOCs, incidentes e documentação avançada.
+
+A proposta é ser simples, acessível e útil tanto para iniciantes quanto para profissionais de segurança, SOC/NOC, telecom, OT/ICS e defesa.
 
 ---
 
-🛡️ Blue Team | SOC/NOC | DFIR | Infraestrutura Crítica | OT/ICS | Telecom & Satcom
-Sou profissional de Segurança Cibernética com foco em defesa de infraestruturas críticas, análise de incidentes, investigação forense e mitigação de ameaças em ambientes complexos como telecom, satélites, navios, estações de água e redes corporativas.
-Meu portfólio reúne simulações realistas, documentação técnica, DFIR, MITRE ATT&CK, logs, IOCs e playbooks completos.
+## 🎯 Objetivo do Portfólio
 
-🔖 Badges
-https://img.shields.io/badge/Cybersecurity-BlueTeam-blue
-https://img.shields.io/badge/DFIR-Forensics-red
-https://img.shields.io/badge/OT%2FICS-Security-orange
-https://img.shields.io/badge/Telecom-Satcom-green
-https://img.shields.io/badge/SOC-NOC-purple
-https://img.shields.io/badge/MITRE-ATT%26CK-black
+- Demonstrar experiência prática em ambientes críticos.  
+- Reunir projetos completos com DFIR, MITRE, logs e incidentes.  
+- Criar cenários realistas de ataque e defesa.  
+- Servir como referência para SOC/NOC, Blue Team e OT/ICS.  
 
-📂 Meus Projetos (Portfólio Técnico)
-🚢 Operation Safe Voyage — CruiseShip-Sec-Mitigation
-Segurança cibernética aplicada a navios de cruzeiro.
-Inclui DFIR, MITRE, logs, IOCs, incidentes e mitigação.
+---
 
-🛰️ Tower & Satellite Security Mitigation
-Mitigação de ameaças em torres de telecom e enlaces satelitais.
-Checklists, automações, DFIR, MITRE e documentação técnica.
+## 📁 Estrutura Geral dos Projetos
 
-💧 WaterPlant-Intrusion-Mitigation
-Simulação de intrusão em estação de tratamento de água.
-Análise de impacto, resposta, DFIR e mitigação.
+- `docs/` – documentação técnica (arquitetura, threat model, diagramas).  
+- `dfir/` – análises forenses e fluxos de investigação.  
+- `logs/` – telemetria, eventos e correlação.  
+- `iocs/` – indicadores de comprometimento.  
+- `incidentes/` – descrição e impacto dos eventos.  
+- `playbooks/` – resposta a incidentes e mitigação.  
+- `mitre/` – técnicas e táticas mapeadas.  
 
-🛡️ Operation Eclipse — Defesa C2 Cyber
-Campanha avançada de ataque e defesa em infraestrutura crítica.
-Inclui cadeia de ataque, DFIR, MITRE, logs e playbooks.
+---
 
-🎯 AirDefense-Sec-Simulation
+## 🚀 Meus Projetos
+
+### 🛰️ Tower & Satellite Security Mitigation  
+Segurança em torres de transmissão e enlaces satelitais.  
+Checklists, DFIR, MITRE, scripts e documentação avançada.
+
+### 🚢 CruiseShip-Sec-Mitigation — Operation Safe Voyage  
+Simulação de defesa cibernética em navio de cruzeiro.  
+GPS spoofing, malware, sabotagem física, DFIR completo.
+
+### 💧 WaterPlant-Intrusion-Mitigation  
+Mitigação de intrusão em estação de tratamento de água.  
+Fluxos de resposta, impacto, DFIR e análise técnica.
+
+### 🛡️ Operation Eclipse — Defesa C2 Cyber  
+Campanha avançada de ataque e defesa em infraestrutura crítica.  
+Logs, MITRE, DFIR, cadeia de ataque e mitigação.
+
+### 🎯 AirDefense-Sec-Simulation  
 Simulação de defesa antiaérea com foco em segurança cibernética militar.
 
-🧪 SOC-Lab / DFIR-Lab / Log Analysis Projects
-Coleção de laboratórios práticos com logs, IOCs, MITRE e resposta a incidentes.
+---
 
-🧠 Skills Técnicas
-🔐 Cybersecurity & Blue Team
-SOC/NOC
+## 📚 Documentação Avançada
 
-SIEM (Wazuh, Elastic, Sentinel, QRadar)
+Para detalhes técnicos completos (arquitetura, threat model, DFIR, cenários avançados):
 
-DFIR
+👉 **Acesse a documentação avançada:**  
+**`docs/overview_advanced.md`**
 
-MITRE ATT&CK
+Essa seção contém tudo o que é mais profundo, técnico e detalhado — separado do README para manter o perfil leve e acessível.
 
-Threat Hunting
+---
 
-Logs & Telemetria
+## 🧠 Skills Técnicas
 
-Playbooks
+- SOC / NOC  
+- DFIR  
+- MITRE ATT&CK  
+- Threat Hunting  
+- Logs & Telemetria  
+- Segurança de Infraestruturas Críticas  
+- Telecom / Satcom  
+- ICS / OT / SCADA  
+- PowerShell  
+- Git  
+- Documentação técnica  
 
-IOCs
+---
 
-Hardening
+## 🏗️ Infraestruturas Simuladas
 
-🛰️ Infraestrutura Crítica
-Telecom (Torres, RF, Micro-ondas)
+- 🛰️ Satélites  
+- 📡 Torres de telecom  
+- 🚢 Navios de cruzeiro  
+- 💧 Estações de água  
+- ⚡ Subestações elétricas (em desenvolvimento)  
+- 🛡️ Ambientes militares  
+- 🏢 Redes corporativas  
+- 🔌 ICS/OT/SCADA  
 
-Satcom
+---
 
-ICS/OT
+## 📫 Contato
 
-SCADA
-
-Redes industriais
-
-Sistemas embarcados
-
-⚙️ Ferramentas & Automação
-PowerShell
-
-Git
-
-Markdown
-
-Diagramas ASCII
-
-Documentação técnica
-
-🏗️ Infraestruturas que já simulei
-🛰️ Satélites e enlaces satelitais
-
-📡 Torres de telecom
-
-🚢 Navios de cruzeiro
-
-💧 Estações de tratamento de água
-
-⚡ Subestações elétricas (em desenvolvimento)
-
-🛡️ Ambientes militares
-
-🏢 Redes corporativas
-
-🔌 ICS/OT/SCADA
-
-📫 Contato
-LinkedIn: [linkedin.com/in/dionisio-xavier](https://www.linkedin.com/in/dion%C3%ADsio-xavier-a48b05188/)
-GitHub: github.com/DionisioXavier1812
-E-mail: dionisioxavier1812@gmail.com  
-Telefone: (11) 93749-6765  
-Local: Ferraz de Vasconcelos – SP
-
+**LinkedIn:** https://www.linkedin.com/in/dionisio-xavier  
+**GitHub:** https://github.com/DionisioXavier1812  
+**WhatsApp:** 11 93749-6765
