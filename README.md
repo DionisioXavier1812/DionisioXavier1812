@@ -2,14 +2,14 @@
 
 ## 🛡️ Cyber Defense Portfolio
 
-![Statusimg.shields.io/badge/status-active-green
-![Cyber Defense](https://img.shields.io/badge/C![Critical Infrastructure](https://img.shields.io/badge/Critical-https://img.shields.io/badge/SOC-ons-blue
+![Status](https://img.shields.io/badge/statuseen
+![Focus](https://img.shields.iocus-cyber%20defense-red
+![Domain](g.shields.io/badge/domain-critical%20infrastructure-blue
+![SOC](https://img.shields.io/badge/SOC-ons-blue
 ![DFIR](https://img.shields.io/badge/DFIR-Forensics-red)
-![OT/ICS](https://img.shields.io/badge/OT%2FICS-Sange
-![SCADA](https://img.shields.io/badge/SCADA-Control%20Systems-yellow)
+![OT/ICS](https://img.shields.io/badge/OT%2FICS-Industrial%20SecuritySCADA](https://img.shields.io/badge/SCADA-Control%20Systems-yellow)
 ![Threat Hunting](https://img.shields.io/badge/Threat-Hunting-purple)
-![Incident Response](https://img.shields.io/badge/Incident-Response-brown
-``
+![Incident Response](https://img.shields.io/badge/Incident
 
 ---
 
