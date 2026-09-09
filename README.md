@@ -1,268 +1,133 @@
 # Dionisio Xavier
+## 🌐 Critical Infrastructure Cyber Defense
 
-## 🛡️ Cyber Defense Portfolio
+[![Status](https://img.shields.io/badge/status-active-green)]()
+[![Focus](https://img.shields.io/badge/focus-cyber%20defense-red)]()
+[![Infra](https://img.shields.io/badge/domain-infraestrutura%20crítica-blue)]()
 
-![Status](https://img.shields.io/badge/statuseen
-![Focus](https://img.shields.iocus-cyber%20defense-red
-![Domain](g.shields.io/badge/domain-critical%20infrastructure-blue
-![SOC](https://img.shields.io/badge/SOC-ons-blue
+![SOC](https://img.shields.io/badge/SOC-Operations-blue)
 ![DFIR](https://img.shields.io/badge/DFIR-Forensics-red)
-![OT/ICS](https://img.shields.io/badge/OT%2FICS-Industrial%20SecuritySCADA](https://img.shields.io/badge/SCADA-Control%20Systems-yellow)
-![Threat Hunting](https://img.shields.io/badge/Threat-Hunting-purple)
-![Incident Response](https://img.shields.io/badge/Incident
+![OT/ICS](https://img.shields.io/badge/OT%2FICS-Industrial%20Security-orange)
+![SCADA](https://img.shields.io/badge/SCADA-Control%20Systems-yellow)
+![MilitaryCyber](https://img.shields.io/badge/Military-Cyber%20Defense-black)
+![CriticalInfra](https://img.shields.io/badge/Critical-Infrastructure-green)
+![ThreatHunting](https://img.shields.io/badge/Threat-Hunting-purple)
+![IncidentResponse](https://img.shields.io/badge/Incident-Response-brown)
 
----
 
-## 👋 Sobre Mim
 
-Profissional focado em **Cyber Defense**, **Blue Team**, **DFIR**, **Threat Hunting**, **MITRE ATT&CK**, **OT/ICS**, **SCADA**, **Telecom**, **Satcom** e **Infraestruturas Críticas**.
+Este portfólio reúne projetos dedicados à **segurança cibernética de infraestruturas críticas**, incluindo ambientes OT/ICS, SCADA, telecom, satcom, defesa militar e simulações completas de DFIR, MITRE ATT&CK, logs, IOCs e resposta a incidentes.
 
-Este portfólio reúne projetos desenvolvidos para simular cenários de ataque e defesa, investigações forenses digitais, resposta a incidentes e proteção de ambientes críticos.
-
----
-
-## 📊 Portfólio em Números
-
-✅ 5+ Projetos Técnicos
-
-✅ 20+ Cenários de Ataque
-
-✅ DFIR Completo
-
-✅ MITRE ATT&CK
-
-✅ OT / ICS / SCADA
-
-✅ Telecom & Satcom
-
-✅ Infraestrutura Crítica
-
-✅ Blue Team Operations
+A proposta é ser simples, acessível e útil tanto para iniciantes quanto para profissionais de segurança, SOC/NOC, OT/ICS e defesa.
 
 ---
 
 ## 🎯 Objetivo do Portfólio
 
-- Demonstrar experiência prática em Cyber Defense.
-- Criar simulações realistas de ataque e defesa.
-- Desenvolver investigações DFIR completas.
-- Aplicar MITRE ATT&CK em ambientes críticos.
-- Consolidar conhecimentos em OT/ICS, Telecom, Satcom e Infraestrutura Crítica.
-- Servir como referência para SOC/NOC, Blue Team e Segurança Operacional.
+- Demonstrar experiência prática em ambientes críticos.  
+- Criar simulações realistas de ataque e defesa.  
+- Documentar DFIR, MITRE, logs e cadeia de ataque.  
+- Servir como referência para SOC/NOC, Blue Team e segurança industrial.  
 
 ---
 
-# 🚀 Projetos
+## 🚀 Meus Projetos
 
-## 🛰️ Tower & Satellite Security Mitigation
+### 🛰️ Tower & Satellite Security Mitigation  
+Segurança em torres de transmissão e enlaces satelitais.  
+Checklists, DFIR, MITRE, scripts e documentação avançada.
 
-Segurança aplicada a torres de telecomunicações e enlaces satelitais.
+### 🚢 CruiseShip-Sec-Mitigation — Operation Safe Voyage  
+Simulação de defesa cibernética em navio de cruzeiro.  
+GPS spoofing, malware, sabotagem física, DFIR completo.
 
-### Inclui
+### 🛡️ Operation Eclipse — Defesa C2 Cyber  
+Campanha avançada de ataque e defesa em infraestrutura crítica.  
+Logs, MITRE, DFIR, cadeia de ataque e mitigação.
 
-- Telecom
-- Satcom
-- Hardening
-- DFIR
-- MITRE ATT&CK
-- Checklists Operacionais
-- Documentação Técnica
+### 🎯 AirDefense-Sec-Simulation  
+Simulação de defesa antiaérea com foco em segurança cibernética militar.
 
----
-
-## 🚢 CruiseShip-Sec-Mitigation — Operation Safe Voyage
-
-Simulação de defesa cibernética aplicada a navios de cruzeiro modernos.
-
-### Inclui
-
-- GPS Spoofing
-- Malware
-- Sabotagem Física
-- DFIR
-- IoCs
-- MITRE ATT&CK
-- Timeline de Incidentes
-
-🔗 Repositório:
-
-https://github.com/DionisioXavier1812/CruiseShip-Sec-Mitigation
+### ☢️ Critical-Infrastructure-CyberDefense (Água, Energia, Nuclear)  
+Projeto 3-em-1 com ambientes OT/ICS completos:  
+- Estação de Tratamento de Água  
+- Estação de Distribuição de Energia  
+- Usina Nuclear  
 
 ---
 
-## 🛡️ Defesa-C2-Cyber — Operation Eclipse
+## 📁 Estrutura Geral dos Projetos
 
-Campanha de Cyber Defense aplicada a ambientes de Comando e Controle (C2).
-
-### Inclui
-
-- Jamming
-- GPS Spoofing
-- Intrusão
-- Sabotagem Física
-- DFIR
-- MITRE ATT&CK
-- Correlation Analysis
-
-🔗 Repositório:
-
-https://github.com/DionisioXavier1812/Defesa-C2-Cyber
+- `docs/` – documentação técnica (arquitetura, threat model, diagramas).  
+- `dfir/` – análises forenses e fluxos de investigação.  
+- `logs/` – telemetria, eventos e correlação.  
+- `iocs/` – indicadores de comprometimento.  
+- `incidentes/` – descrição e impacto dos eventos.  
+- `playbooks/` – resposta a incidentes e mitigação.  
+- `mitre/` – técnicas e táticas mapeadas.  
 
 ---
 
-## ☢️ Critical-Infrastructure-CyberDefense
+## 🏷️ Topics do Repositório
 
-Projeto focado em Infraestrutura Crítica e Ambientes OT/ICS.
+[![Cybersecurity](https://img.shields.io/badge/topic-cybersecurity-blue)]()
+[![Critical Infrastructure](https://img.shields.io/badge/topic-critical--infrastructure-red)]()
+[![OT Security](https://img.shields.io/badge/topic-ot--security-orange)]()
+[![ICS Security](https://img.shields.io/badge/topic-ics--security-yellow)]()
+[![DFIR](https://img.shields.io/badge/topic-dfir-purple)]()
+[![Incident Response](https://img.shields.io/badge/topic-incident--response-green)]()
+[![Blue Team](https://img.shields.io/badge/topic-blue--team-cyan)]()
+[![SCADA](https://img.shields.io/badge/topic-scada-lightgrey)]()
+[![Water Treatment](https://img.shields.io/badge/topic-water--treatment-blueviolet)]()
+[![Power Grid](https://img.shields.io/badge/topic-power--grid-darkgreen)]()
+[![Nuclear Security](https://img.shields.io/badge/topic-nuclear--security-black)]()
+[![MITRE ATT&CK](https://img.shields.io/badge/topic-mitre--attck-darkred)]()
 
-### 💧 Water Plant
-
-- PLCs
-- Sensores
-- Processos Químicos
-
-### ⚡ Power Grid
-
-- SCADA
-- Distribuição de Energia
-- Telemetria
-
-### ☢️ Nuclear Plant
-
-- Redes OT
-- Sensores Críticos
-- Operações Industriais
-
-### Inclui
-
-- DFIR
-- Threat Modeling
-- MITRE ATT&CK
-- Logs
-- IoCs
-- Playbooks
-- Final Report
-
-🔗 Repositório:
-
-https://github.com/DionisioXavier1812/Critical-Infrastructure-CyberDefense
-
----
-
-## 🎢 ThemePark-Security-Simulation
-
-Simulação de segurança aplicada a parques temáticos modernos.
-
-### 🎢 Rides
-
-- Montanha-russa
-- Simuladores
-- PLCs
-
-### 📡 Network
-
-- Wi‑Fi Corporativo
-- Wi‑Fi Visitantes
-- CCTV
-- Controle de Acesso
-
-### 🖥️ Operations
-
-- Bilheteria
-- Financeiro
-- Administração
-- Centro de Operações
-
-### Inclui
-
-- DFIR
-- IoCs
-- MITRE ATT&CK
-- Threat Modeling
-- Final Report
-- Incident Response
-
-🔗 Repositório:
-
-https://github.com/DionisioXavier1812/ThemePark-Security-Simulation
-
----
-
-## 🏗️ Infraestruturas Simuladas
-
-- 🛰️ Satélites
-- 📡 Torres de Telecom
-- 🚢 Navios de Cruzeiro
-- 💧 Estações de Tratamento de Água
-- ⚡ Subestações Elétricas
-- ☢️ Usinas Nucleares
-- 🎢 Parques Temáticos
-- 🛡️ Ambientes Militares
-- 🏢 Redes Corporativas
-- 🔌 OT / ICS / SCADA
+Essas *topics* representam o foco técnico do portfólio, cobrindo segurança cibernética aplicada a ambientes críticos, OT/ICS, DFIR, SCADA, resposta a incidentes e modelagem MITRE ATT&CK.
 
 ---
 
 ## 🧠 Skills Técnicas
 
-- SOC / NOC
-- DFIR
-- MITRE ATT&CK
-- Threat Hunting
-- Incident Response
-- Cyber Defense
-- OT / ICS
-- SCADA
-- Telecom / Satcom
-- PowerShell
-- Git
-- Documentação Técnica
-- Análise de Logs
-- Threat Modeling
+- SOC / NOC  
+- DFIR  
+- MITRE ATT&CK  
+- Threat Hunting  
+- Logs & Telemetria  
+- Segurança de Infraestruturas Críticas  
+- Telecom / Satcom  
+- ICS / OT / SCADA  
+- PowerShell  
+- Git  
+- Documentação técnica  
 
 ---
 
-## 📚 Metodologias Utilizadas
+## 🏗️ Infraestruturas Simuladas
 
-- MITRE ATT&CK
-- Cyber Kill Chain
-- DFIR
-- Incident Response Lifecycle
-- Threat Modeling
-- Defense in Depth
-- Risk Assessment
+- 🛰️ Satélites  
+- 📡 Torres de telecom  
+- 🚢 Navios de cruzeiro  
+- 💧 Estações de água  
+- ⚡ Subestações elétricas  
+- ☢️ Usinas nucleares  
+- 🛡️ Ambientes militares  
+- 🏢 Redes corporativas  
+- 🔌 ICS/OT/SCADA  
 
 ---
 
-## 🚀 Roadmap
+## 📚 Documentação Avançada
 
-### ✅ Concluídos
+👉 **Acesse a documentação completa:**  
+`docs/overview_advanced.md`
 
-- Tower & Satellite Security Mitigation
-- CruiseShip-Sec-Mitigation
-- Defesa-C2-Cyber
-- Critical-Infrastructure-CyberDefense
-- ThemePark-Security-Simulation
-
-### 🔜 Próximos Projetos
-
-- Airport-Sec-Mitigation ✈️
-- OilPlatform-CyberDefense 🛢️
-- PortAuthority-Security ⚓
-- Railway-CyberDefense 🚆
-- Hospital-CyberDefense 🏥
+Contém arquitetura, threat model, diagramas, cadeia de ataque e DFIR detalhado.
 
 ---
 
 ## 📫 Contato
 
-**LinkedIn**  
-https://www.linkedin.com/in/dionisio-xavier
-
-**GitHub**  
-https://github.com/DionisioXavier1812
-
-**WhatsApp**  
-11 93749-6765
-
----
-⭐ Todos os projetos deste portfólio foram desenvolvidos para fins educacionais, treinamento de Blue Team, DFIR, Threat Hunting e Segurança de Infraestruturas Críticas.
+**LinkedIn:** https://www.linkedin.com/in/dionisio-xavier  
+**GitHub:** https://github.com/DionisioXavier1812  
+**WhatsApp:** 11 93749-6765
