@@ -1,120 +1,108 @@
-# DIONISIO XAVIER
-Profissional de Cybersegurança  
-Ferraz de Vasconcelos – SP  
-E-mail: dionisioxavier1812@gmail.com  
-Telefone: (11) 93749-6765  
+🌐 Dionisio Xavier — Cybersecurity & Critical Infrastructure Defense
+ 
+ 
 
 ---
 
-## Perfil Profissional
-Profissional em transição para a área de Cibersegurança, com experiência prática em monitoramento de eventos, análise de logs, investigação inicial de incidentes e aplicação de protocolos de segurança.
+🛡️ Blue Team | SOC/NOC | DFIR | Infraestrutura Crítica | OT/ICS | Telecom & Satcom
+Sou profissional de Segurança Cibernética com foco em defesa de infraestruturas críticas, análise de incidentes, investigação forense e mitigação de ameaças em ambientes complexos como telecom, satélites, navios, estações de água e redes corporativas.
+Meu portfólio reúne simulações realistas, documentação técnica, DFIR, MITRE ATT&CK, logs, IOCs e playbooks completos.
 
-Vivência em ambientes críticos, incluindo experiência militar com disciplina, prontidão e tomada de decisão sob pressão. Experiência complementar em TI, varejo, telecom e segurança patrimonial.
+🔖 Badges
+https://img.shields.io/badge/Cybersecurity-BlueTeam-blue
+https://img.shields.io/badge/DFIR-Forensics-red
+https://img.shields.io/badge/OT%2FICS-Security-orange
+https://img.shields.io/badge/Telecom-Satcom-green
+https://img.shields.io/badge/SOC-NOC-purple
+https://img.shields.io/badge/MITRE-ATT%26CK-black
 
----
+📂 Meus Projetos (Portfólio Técnico)
+🚢 Operation Safe Voyage — CruiseShip-Sec-Mitigation
+Segurança cibernética aplicada a navios de cruzeiro.
+Inclui DFIR, MITRE, logs, IOCs, incidentes e mitigação.
 
-## Competências Técnicas
+🛰️ Tower & Satellite Security Mitigation
+Mitigação de ameaças em torres de telecom e enlaces satelitais.
+Checklists, automações, DFIR, MITRE e documentação técnica.
 
-### Operações de SOC
-- Triagem de alertas  
-- Análise de eventos em SIEM (Wazuh, Elastic, QRadar, Sentinel)  
-- Identificação de comportamentos suspeitos  
-- Investigação inicial de incidentes  
-- Registro e documentação técnica  
-- Mapeamento de eventos na matriz MITRE ATT&CK  
-- Procedimentos de resposta a incidentes  
+💧 WaterPlant-Intrusion-Mitigation
+Simulação de intrusão em estação de tratamento de água.
+Análise de impacto, resposta, DFIR e mitigação.
 
-### Análise de Logs
-- Interpretação de logs de sistemas e aplicações  
-- Correlação de eventos  
-- Identificação de IOCs (IPs, domínios, hashes, URLs)  
-- Análise de TTPs  
-- Noções de DFIR  
-- Cadeia de custódia  
-- Uso de Syslog, auditd e Event Viewer  
+🛡️ Operation Eclipse — Defesa C2 Cyber
+Campanha avançada de ataque e defesa em infraestrutura crítica.
+Inclui cadeia de ataque, DFIR, MITRE, logs e playbooks.
 
-### Segurança da Informação
-- Protocolos de segurança  
-- Controles operacionais  
-- Práticas de defesa cibernética  
-- Noções de análise de risco  
-- Criação e execução de playbooks  
+🎯 AirDefense-Sec-Simulation
+Simulação de defesa antiaérea com foco em segurança cibernética militar.
 
-### Tecnologias
-- Linux  
-- AWS  
-- Python  
-- Power BI  
-- Redes e sistemas operacionais  
-- CFTV  
+🧪 SOC-Lab / DFIR-Lab / Log Analysis Projects
+Coleção de laboratórios práticos com logs, IOCs, MITRE e resposta a incidentes.
 
-### Tipos de Alertas SOC Comuns
-- Brute force  
-- Malware behavior  
-- Privilege escalation  
-- Execução suspeita de processos  
-- Comunicação com C2  
-- Acesso não autorizado  
-- Alterações anômalas em arquivos ou serviços  
+🧠 Skills Técnicas
+🔐 Cybersecurity & Blue Team
+SOC/NOC
 
----
+SIEM (Wazuh, Elastic, Sentinel, QRadar)
 
-## Experiência Profissional
-**Líder de Setor – Atacadão (2024–2025)**  
-Gestão de equipe, processos e indicadores.
+DFIR
 
-**Operador de Telemarketing – Teleperformance (2024)**  
-Atendimento técnico e suporte a usuários.
+MITRE ATT&CK
 
-**Gerente de Loja – Perfumaria Uehara (2021–2023)**  
-Gestão de equipe, TI local e manutenção de sistemas.
+Threat Hunting
 
-**Conferente – Perfumaria Uehara (2017–2021)**  
-Controle de estoque, operação de CFTV e manutenção de computadores.
+Logs & Telemetria
 
-**Experiências anteriores (2005–2015)**  
-Vigilância patrimonial, transporte de valores, telecom e suporte técnico.
+Playbooks
 
----
+IOCs
 
-## Formação Acadêmica
-- MBA em Cybersecurity e Cybercrimes – Anhanguera  
-- Pós-graduação em Desenvolvimento Web Full Stack – Anhanguera  
-- Tecnólogo em Análise e Desenvolvimento de Sistemas – UniCesumar  
-- Tecnólogo em Defesa Cibernética – UniCesumar (em andamento)
+Hardening
 
----
+🛰️ Infraestrutura Crítica
+Telecom (Torres, RF, Micro-ondas)
 
-## Cursos e Certificações
-- Python – SENAI  
-- Power BI – SENAI  
-- Segurança Cibernética – SENAI  
-- Montagem e Manutenção de Microcomputadores – SENAI  
-- Certificação Linux  
-- Certificação AWS  
+Satcom
 
----
+ICS/OT
 
-## Portfólio Técnico
+SCADA
 
-**BlueTeam-Log-Analyzer**  
-Ferramenta para análise de logs, correlação de eventos, identificação de IOCs e geração de relatórios.
+Redes industriais
 
-**SOC-Simulacao-Jr**  
-Simulação de operações SOC com triagem, análise, documentação de incidentes e criação de playbooks.
+Sistemas embarcados
 
-**CyberDefense-SOC-Portfolio**  
-Casos simulados de defesa cibernética, investigação inicial, resposta a incidentes e mapeamento MITRE ATT&CK.
+⚙️ Ferramentas & Automação
+PowerShell
 
-**Defesa-Antiaerea-Ciberseguranca**  
-Simulação educacional com arquitetura, ameaças, análise de eventos e identificação de TTPs.
+Git
 
-**intrusion-simulation-military**  
-Simulação militar de intrusão e resposta com foco em procedimentos operacionais, investigação e correlação de eventos.
+Markdown
 
----
+Diagramas ASCII
 
-## Contato
+Documentação técnica
+
+🏗️ Infraestruturas que já simulei
+🛰️ Satélites e enlaces satelitais
+
+📡 Torres de telecom
+
+🚢 Navios de cruzeiro
+
+💧 Estações de tratamento de água
+
+⚡ Subestações elétricas (em desenvolvimento)
+
+🛡️ Ambientes militares
+
+🏢 Redes corporativas
+
+🔌 ICS/OT/SCADA
+
+📫 Contato
+LinkedIn: [linkedin.com/in/dionisio-xavier](https://www.linkedin.com/in/dion%C3%ADsio-xavier-a48b05188/)
+GitHub: github.com/DionisioXavier1812
 E-mail: dionisioxavier1812@gmail.com  
 Telefone: (11) 93749-6765  
 Local: Ferraz de Vasconcelos – SP
