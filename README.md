@@ -41,10 +41,6 @@ Checklists, DFIR, MITRE, scripts e documentação avançada.
 Simulação de defesa cibernética em navio de cruzeiro.  
 GPS spoofing, malware, sabotagem física, DFIR completo.
 
-### 💧 WaterPlant-Intrusion-Mitigation  
-Mitigação de intrusão em estação de tratamento de água.  
-Fluxos de resposta, impacto, DFIR e análise técnica.
-
 ### 🛡️ Operation Eclipse — Defesa C2 Cyber  
 Campanha avançada de ataque e defesa em infraestrutura crítica.  
 Logs, MITRE, DFIR, cadeia de ataque e mitigação.
@@ -86,7 +82,6 @@ Essa seção contém tudo o que é mais profundo, técnico e detalhado — separ
 - 🛰️ Satélites  
 - 📡 Torres de telecom  
 - 🚢 Navios de cruzeiro  
-- 💧 Estações de água  
 - ⚡ Subestações elétricas (em desenvolvimento)  
 - 🛡️ Ambientes militares  
 - 🏢 Redes corporativas  
