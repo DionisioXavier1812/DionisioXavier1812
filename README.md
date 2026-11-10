@@ -130,4 +130,4 @@ Contém arquitetura, threat model, diagramas, cadeia de ataque e DFIR detalhado.
 
 **LinkedIn:** https://www.linkedin.com/in/dionisio-xavier  
 **GitHub:** https://github.com/DionisioXavier1812  
-**WhatsApp:** 11 93749-6765
+
